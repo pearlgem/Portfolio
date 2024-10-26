@@ -87,6 +87,7 @@ a:hover {
   color: white;
   background-color: black;
   transition: 0.3s;
+  cursor: pointer;
 }
 .intro button:hover {
   color: black;
